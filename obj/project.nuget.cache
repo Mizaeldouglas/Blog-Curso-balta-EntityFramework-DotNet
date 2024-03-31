@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "e1aDmqHQB0OrXcfP1yf/PYXazI2HHNYpZ4uHUEcgUtK5/MNduF/kC0H5oJyBs75kpH5IZDYB5Uw3XkaX5Z+75Q==",
+  "success": true,
+  "projectFilePath": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/curso-balta.io/ FundamentosDoEntityFramework/Blog/Blog.csproj",
+  "expectedPackageFiles": [
+    "/Users/mizaeldouglasmello/.nuget/packages/microsoft.netcore.app.ref/6.0.27/microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "/Users/mizaeldouglasmello/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.27/microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "/Users/mizaeldouglasmello/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.27/microsoft.netcore.app.host.osx-arm64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
