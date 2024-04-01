@@ -1,14 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+namespace Blog.Models;
 
-namespace Blog.Models
+public class Role
 {
-    public class Role
-    {
-        public int Id { get; set; }
-        public string Name { get; set; } = string.Empty;
-        public string Slug { get; set; } = string.Empty;
-    }
+    public int Id { get; set; }
+    public string Name { get; set; } = string.Empty;
+    public string Slug { get; set; } = string.Empty;
+
+    public IList<User> Users { get; set; }
 }
