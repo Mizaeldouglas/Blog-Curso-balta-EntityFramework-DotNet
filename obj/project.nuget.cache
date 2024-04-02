@@ -1,15 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "8Dew9+uRsvOyf8tK1eGPCT1AfYrt50DVYKdq9fWKzcW9+ie7bHKyHWQme12Zd/Alta5sFhDMb16Soc1l9P+wgw==",
+  "dgSpecHash": "bS1RgE71pRXFFrQ7/2T+HZlpK9ejsY3ulcK3kVXUDPwjmyyCVDS1ywvu3jDRJurSverR0jqnebKX7J3gwqhyNg==",
   "success": true,
   "projectFilePath": "/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Balta/curso-balta.io/ FundamentosDoEntityFramework/Blog/Blog.csproj",
   "expectedPackageFiles": [
+    "/Users/mizaeldouglasmello/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/mizaeldouglasmello/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/mizaeldouglasmello/.nuget/packages/microsoft.data.sqlclient/2.1.7/microsoft.data.sqlclient.2.1.7.nupkg.sha512",
     "/Users/mizaeldouglasmello/.nuget/packages/microsoft.data.sqlclient.sni.runtime/2.1.1/microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "/Users/mizaeldouglasmello/.nuget/packages/microsoft.entityframeworkcore/6.0.28/microsoft.entityframeworkcore.6.0.28.nupkg.sha512",
     "/Users/mizaeldouglasmello/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.28/microsoft.entityframeworkcore.abstractions.6.0.28.nupkg.sha512",
     "/Users/mizaeldouglasmello/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.28/microsoft.entityframeworkcore.analyzers.6.0.28.nupkg.sha512",
+    "/Users/mizaeldouglasmello/.nuget/packages/microsoft.entityframeworkcore.design/6.0.28/microsoft.entityframeworkcore.design.6.0.28.nupkg.sha512",
     "/Users/mizaeldouglasmello/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.28/microsoft.entityframeworkcore.relational.6.0.28.nupkg.sha512",
     "/Users/mizaeldouglasmello/.nuget/packages/microsoft.entityframeworkcore.sqlserver/6.0.28/microsoft.entityframeworkcore.sqlserver.6.0.28.nupkg.sha512",
     "/Users/mizaeldouglasmello/.nuget/packages/microsoft.extensions.caching.abstractions/6.0.0/microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
